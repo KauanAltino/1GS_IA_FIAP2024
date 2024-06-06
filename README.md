@@ -14,8 +14,6 @@ As colunas do dataset são as seguintes:
 ## Estrutura do Projeto
 O projeto está estruturado da seguinte forma:
 
-- **data/**: Pasta contendo o dataset utilizado no projeto.
+- **dataset/**: Pasta contendo o dataset utilizado no projeto.
 - **src/**: Pasta contendo o código-fonte do projeto.
-- **model.py**: Código Python para desenvolvimento e treinamento do modelo de Machine Learning.
-- **data_processing.py**: Código Python para pré-processamento e análise exploratória dos dados.
 - **README.md**: Documentação do projeto (você está lendo agora).
